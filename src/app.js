@@ -578,7 +578,7 @@ async function loadRestaurants() {
   function filterAttrRow(label, key, group, list, selected) {
     var values = attrValues(list, group);
     if (values.length < 2) return "";
-    var html = '<div class="filter-block"><span class="filter-label">' + esc(label) + '</span><div class="chip-row">';
+    var html = '<div class="filter-block filter-block-inline"><span class="filter-label">' + esc(label) + '</span><div class="chip-row">';
     html += '<button type="button" class="chip' + (!selected ? ' active' : '') + '" data-' + key + '="">Todos</button>';
     values.forEach(function(v){ html += '<button type="button" class="chip' + (selected===v?' active':'') + '" data-' + key + '="' + esc(v) + '">' + esc(v) + '</button>'; });
     return html + '</div></div>';
@@ -586,7 +586,7 @@ async function loadRestaurants() {
   function filterPriceRow(list) {
     var values = ["€","€€","€€€","€€€€"].filter(function(v){ return list.some(function(r){ return r.atributos && r.atributos.preco===v; }); });
     if (values.length < 2) return "";
-    var html='<div class="filter-block"><span class="filter-label">Preço</span><div class="chip-row">';
+    var html='<div class="filter-block filter-block-inline"><span class="filter-label">Preço</span><div class="chip-row">';
     html += '<button type="button" class="chip' + (!state.preco?' active':'') + '" data-preco="">Todos</button>';
     values.forEach(function(v){ html += '<button type="button" class="chip' + (state.preco===v?' active':'') + '" data-preco="' + v + '">' + v + '</button>'; });
     return html+'</div></div>';
