@@ -1,0 +1,89 @@
+{
+  "scenarios": [
+    {
+      "name": "Novo utilizador — tanto faz",
+      "top": [
+        "100 Maneiras",
+        "Abocanhado",
+        "Adega Já Fumega",
+        "Café de São Bento",
+        "Casa do Alentejo"
+      ],
+      "status": "OK"
+    },
+    {
+      "name": "Pedido actual vence — peixe",
+      "top": [
+        "O Manel",
+        "O Poleiro",
+        "Adega da Tia Matilde",
+        "Al.fama (ex-Ideal)",
+        "Batista do Bacalhau"
+      ],
+      "status": "OK"
+    },
+    {
+      "name": "Preferência pessoal desempata — peixe",
+      "likedInTop10": 1,
+      "top": [
+        "Adega Já Fumega",
+        "O Manel",
+        "O Poleiro",
+        "Taberna Afonso",
+        "Adega da Tia Matilde"
+      ],
+      "status": "OK"
+    },
+    {
+      "name": "Não gostei — rejeição explícita",
+      "rejected": "Pateo Real",
+      "status": "OK"
+    },
+    {
+      "name": "Outra sugestão — exploração neutra",
+      "first": "Adega Já Fumega",
+      "after": "Adega Já Fumega",
+      "status": "OK"
+    },
+    {
+      "name": "Alternativa repetida — sinal fraco",
+      "confidence": 0.15,
+      "score": 0.25,
+      "status": "OK"
+    },
+    {
+      "name": "Mudança de opinião — estado actual",
+      "restaurant": "Pateo Real",
+      "before": 3.525,
+      "after": -3,
+      "status": "OK"
+    },
+    {
+      "name": "Contexto — peixe não contamina tanto o resto",
+      "contextScore": 9.694,
+      "neutralScore": 8.25,
+      "status": "OK"
+    },
+    {
+      "name": "Guardado/favorito — sinal intermédio",
+      "restaurant": "Pateo Real",
+      "confidence": 0.05,
+      "score": 2,
+      "status": "OK"
+    },
+    {
+      "name": "Perfil forte — pedido actual continua a mandar",
+      "confidence": 1,
+      "top": [
+        "Trindade",
+        "Gaveto",
+        "Zapata",
+        "Mar do Inferno",
+        "Neiva-Mar"
+      ],
+      "status": "OK"
+    }
+  ],
+  "total": 10,
+  "passed": 10
+}

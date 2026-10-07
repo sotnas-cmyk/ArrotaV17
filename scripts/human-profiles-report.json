@@ -1,0 +1,46 @@
+{
+  "profiles": {
+    "explorador": {
+      "confidence": 0,
+      "top": [
+        "100 Maneiras",
+        "Abocanhado",
+        "Adega Já Fumega",
+        "Café de São Bento",
+        "Casa do Alentejo"
+      ]
+    },
+    "tradicional": {
+      "confidence": 1,
+      "classicInTop10": 9,
+      "top": [
+        "Abocanhado",
+        "Café de São Bento",
+        "Casa do Alentejo",
+        "O Manel",
+        "O Poleiro"
+      ]
+    },
+    "peixeContextual": {
+      "contextConfidence": 0.5,
+      "contextScore": 9.694,
+      "neutralScore": 8.25
+    },
+    "mudancaOpiniao": {
+      "liked": 3.525,
+      "disliked": -3
+    },
+    "escolhaRelativa": {
+      "confidence": 0.2,
+      "score": 0.5
+    }
+  },
+  "checks": [
+    "exploração neutra",
+    "perfil tradicional",
+    "preferência contextual",
+    "mudança de opinião",
+    "escolha relativa fraca"
+  ],
+  "totalChecks": 5
+}

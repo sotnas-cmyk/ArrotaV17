@@ -1,0 +1,13 @@
+{
+  "name": "guia-porta-10a",
+  "private": true,
+  "scripts": {
+    "validate": "node scripts/validate-data.js",
+    "editor": "python3 -m http.server 8080",
+    "test:profile": "node scripts/test-profile.js",
+    "test:scenarios": "node scripts/test-scenarios.js",
+    "test:calibration": "node scripts/test-calibration.js",
+    "test:pilot": "node scripts/test-pilot.js",
+    "test:all": "npm run validate && npm run test:profile && npm run test:scenarios && npm run test:calibration && node scripts/test-human-profiles.js && node scripts/test-use-cases.js && node scripts/test-real-ranking.js && npm run test:pilot"
+  }
+}

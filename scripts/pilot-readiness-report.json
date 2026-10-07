@@ -1,0 +1,28 @@
+{
+  "version": "V17",
+  "purpose": "piloto controlado antes de recolher feedback real",
+  "status": "READY",
+  "checks": [
+    {
+      "name": "10 cenários de utilização passaram",
+      "ok": true
+    },
+    {
+      "name": "5 perfis humanos passaram",
+      "ok": true
+    },
+    {
+      "name": "calibração 0→1→2→3→5→10 evidências existe",
+      "ok": true
+    },
+    {
+      "name": "ranking real usa 318 restaurantes",
+      "ok": true
+    },
+    {
+      "name": "ranking real tem personalização efectiva",
+      "ok": true
+    }
+  ],
+  "recommendation": "Pronto para piloto; não acrescentar novas regras de aprendizagem durante o piloto."
+}

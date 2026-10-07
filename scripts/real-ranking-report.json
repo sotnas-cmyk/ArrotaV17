@@ -1,0 +1,1456 @@
+{
+  "restaurants": 318,
+  "open": 318,
+  "scenarios": {
+    "tanto faz": {
+      "explorador": [
+        {
+          "id": 335,
+          "nome": "100 Maneiras",
+          "score": 0.91,
+          "personal": 0,
+          "confidence": 0
+        },
+        {
+          "id": 41,
+          "nome": "Abocanhado",
+          "score": 0.91,
+          "personal": 0,
+          "confidence": 0
+        },
+        {
+          "id": 342,
+          "nome": "Adega Já Fumega",
+          "score": 0.91,
+          "personal": 0,
+          "confidence": 0
+        },
+        {
+          "id": 469,
+          "nome": "Café de São Bento",
+          "score": 0.91,
+          "personal": 0,
+          "confidence": 0
+        },
+        {
+          "id": 466,
+          "nome": "Casa do Alentejo",
+          "score": 0.91,
+          "personal": 0,
+          "confidence": 0
+        },
+        {
+          "id": 366,
+          "nome": "Eleven",
+          "score": 0.91,
+          "personal": 0,
+          "confidence": 0
+        },
+        {
+          "id": 420,
+          "nome": "Izakaya",
+          "score": 0.91,
+          "personal": 0,
+          "confidence": 0
+        },
+        {
+          "id": 421,
+          "nome": "Kappo",
+          "score": 0.91,
+          "personal": 0,
+          "confidence": 0
+        },
+        {
+          "id": 380,
+          "nome": "Natraj",
+          "score": 0.91,
+          "personal": 0,
+          "confidence": 0
+        },
+        {
+          "id": 1,
+          "nome": "O Manel",
+          "score": 0.91,
+          "personal": 0,
+          "confidence": 0
+        }
+      ],
+      "tradicional": [
+        {
+          "id": 41,
+          "nome": "Abocanhado",
+          "score": 0.9208,
+          "personal": 6,
+          "confidence": 0.6
+        },
+        {
+          "id": 469,
+          "nome": "Café de São Bento",
+          "score": 0.9208,
+          "personal": 5,
+          "confidence": 0.6
+        },
+        {
+          "id": 466,
+          "nome": "Casa do Alentejo",
+          "score": 0.9208,
+          "personal": 5,
+          "confidence": 0.6
+        },
+        {
+          "id": 401,
+          "nome": "Solar dos Nunes",
+          "score": 0.9208,
+          "personal": 5,
+          "confidence": 0.6
+        },
+        {
+          "id": 428,
+          "nome": "Zé Varunca",
+          "score": 0.9088,
+          "personal": 4.5,
+          "confidence": 0.6
+        },
+        {
+          "id": 340,
+          "nome": "Adega das Gravatas",
+          "score": 0.9021,
+          "personal": 6,
+          "confidence": 0.6
+        },
+        {
+          "id": 198,
+          "nome": "Burgo",
+          "score": 0.9021,
+          "personal": 6,
+          "confidence": 0.6
+        },
+        {
+          "id": 467,
+          "nome": "Café Império",
+          "score": 0.9021,
+          "personal": 6,
+          "confidence": 0.6
+        },
+        {
+          "id": 37,
+          "nome": "Cantinho do Abade",
+          "score": 0.9021,
+          "personal": 6,
+          "confidence": 0.6
+        },
+        {
+          "id": 142,
+          "nome": "Castiço",
+          "score": 0.9021,
+          "personal": 6,
+          "confidence": 0.6
+        }
+      ],
+      "peixe-casual": [
+        {
+          "id": 1,
+          "nome": "O Manel",
+          "score": 0.9154,
+          "personal": 5,
+          "confidence": 0.3
+        },
+        {
+          "id": 25,
+          "nome": "Taberna Afonso",
+          "score": 0.9154,
+          "personal": 5,
+          "confidence": 0.3
+        },
+        {
+          "id": 342,
+          "nome": "Adega Já Fumega",
+          "score": 0.9094,
+          "personal": 4.5,
+          "confidence": 0.3
+        },
+        {
+          "id": 388,
+          "nome": "O Poleiro",
+          "score": 0.9004,
+          "personal": 3.75,
+          "confidence": 0.3
+        },
+        {
+          "id": 339,
+          "nome": "Adega da Tia Matilde",
+          "score": 0.8954,
+          "personal": 5,
+          "confidence": 0.3
+        },
+        {
+          "id": 437,
+          "nome": "Al.fama (ex-Ideal)",
+          "score": 0.8954,
+          "personal": 5,
+          "confidence": 0.3
+        },
+        {
+          "id": 429,
+          "nome": "Astrolabio",
+          "score": 0.8954,
+          "personal": 5,
+          "confidence": 0.3
+        },
+        {
+          "id": 165,
+          "nome": "Batista do Bacalhau",
+          "score": 0.8954,
+          "personal": 5,
+          "confidence": 0.3
+        },
+        {
+          "id": 38,
+          "nome": "O Jardim",
+          "score": 0.8954,
+          "personal": 5,
+          "confidence": 0.3
+        },
+        {
+          "id": 318,
+          "nome": "Pinheiro (Almeirim)",
+          "score": 0.8954,
+          "personal": 5,
+          "confidence": 0.3
+        }
+      ],
+      "romantico-contemporaneo": [
+        {
+          "id": 420,
+          "nome": "Izakaya",
+          "score": 0.9154,
+          "personal": 6,
+          "confidence": 0.3
+        },
+        {
+          "id": 380,
+          "nome": "Natraj",
+          "score": 0.9154,
+          "personal": 9,
+          "confidence": 0.3
+        },
+        {
+          "id": 399,
+          "nome": "Sakura",
+          "score": 0.9154,
+          "personal": 9,
+          "confidence": 0.3
+        },
+        {
+          "id": 163,
+          "nome": "Salpoente",
+          "score": 0.9154,
+          "personal": 9,
+          "confidence": 0.3
+        },
+        {
+          "id": 405,
+          "nome": "Tibetanos",
+          "score": 0.9154,
+          "personal": 9,
+          "confidence": 0.3
+        },
+        {
+          "id": 335,
+          "nome": "100 Maneiras",
+          "score": 0.9094,
+          "personal": 4.5,
+          "confidence": 0.3
+        },
+        {
+          "id": 366,
+          "nome": "Eleven",
+          "score": 0.9094,
+          "personal": 4.5,
+          "confidence": 0.3
+        },
+        {
+          "id": 421,
+          "nome": "Kappo",
+          "score": 0.9094,
+          "personal": 4.5,
+          "confidence": 0.3
+        },
+        {
+          "id": 15,
+          "nome": "34",
+          "score": 0.8954,
+          "personal": 9,
+          "confidence": 0.3
+        },
+        {
+          "id": 429,
+          "nome": "Astrolabio",
+          "score": 0.8954,
+          "personal": 6,
+          "confidence": 0.3
+        }
+      ]
+    },
+    "peixe": {
+      "explorador": [
+        {
+          "id": 342,
+          "nome": "Adega Já Fumega",
+          "score": 0.91,
+          "personal": 0,
+          "confidence": 0
+        },
+        {
+          "id": 1,
+          "nome": "O Manel",
+          "score": 0.91,
+          "personal": 0,
+          "confidence": 0
+        },
+        {
+          "id": 388,
+          "nome": "O Poleiro",
+          "score": 0.91,
+          "personal": 0,
+          "confidence": 0
+        },
+        {
+          "id": 25,
+          "nome": "Taberna Afonso",
+          "score": 0.91,
+          "personal": 0,
+          "confidence": 0
+        },
+        {
+          "id": 32,
+          "nome": "A Mariana",
+          "score": 0.8888,
+          "personal": 0,
+          "confidence": 0
+        },
+        {
+          "id": 339,
+          "nome": "Adega da Tia Matilde",
+          "score": 0.8888,
+          "personal": 0,
+          "confidence": 0
+        },
+        {
+          "id": 437,
+          "nome": "Al.fama (ex-Ideal)",
+          "score": 0.8888,
+          "personal": 0,
+          "confidence": 0
+        },
+        {
+          "id": 429,
+          "nome": "Astrolabio",
+          "score": 0.8888,
+          "personal": 0,
+          "confidence": 0
+        },
+        {
+          "id": 165,
+          "nome": "Batista do Bacalhau",
+          "score": 0.8888,
+          "personal": 0,
+          "confidence": 0
+        },
+        {
+          "id": 468,
+          "nome": "Casa dos Passarinhos",
+          "score": 0.8888,
+          "personal": 0,
+          "confidence": 0
+        }
+      ],
+      "tradicional": [
+        {
+          "id": 1,
+          "nome": "O Manel",
+          "score": 0.8968,
+          "personal": 4,
+          "confidence": 0.6
+        },
+        {
+          "id": 25,
+          "nome": "Taberna Afonso",
+          "score": 0.8968,
+          "personal": 4,
+          "confidence": 0.6
+        },
+        {
+          "id": 478,
+          "nome": "Abrigo do Pastor",
+          "score": 0.8834,
+          "personal": 6,
+          "confidence": 0.6
+        },
+        {
+          "id": 339,
+          "nome": "Adega da Tia Matilde",
+          "score": 0.8781,
+          "personal": 4,
+          "confidence": 0.6
+        },
+        {
+          "id": 437,
+          "nome": "Al.fama (ex-Ideal)",
+          "score": 0.8781,
+          "personal": 4,
+          "confidence": 0.6
+        },
+        {
+          "id": 165,
+          "nome": "Batista do Bacalhau",
+          "score": 0.8781,
+          "personal": 4,
+          "confidence": 0.6
+        },
+        {
+          "id": 38,
+          "nome": "O Jardim",
+          "score": 0.8781,
+          "personal": 4,
+          "confidence": 0.6
+        },
+        {
+          "id": 318,
+          "nome": "Pinheiro (Almeirim)",
+          "score": 0.8781,
+          "personal": 4,
+          "confidence": 0.6
+        },
+        {
+          "id": 152,
+          "nome": "Solar do Bacalhau",
+          "score": 0.8781,
+          "personal": 4,
+          "confidence": 0.6
+        },
+        {
+          "id": 402,
+          "nome": "Solar dos Presuntos",
+          "score": 0.8781,
+          "personal": 4,
+          "confidence": 0.6
+        }
+      ],
+      "peixe-casual": [
+        {
+          "id": 342,
+          "nome": "Adega Já Fumega",
+          "score": 0.9154,
+          "personal": 5.287,
+          "confidence": 0.3
+        },
+        {
+          "id": 1,
+          "nome": "O Manel",
+          "score": 0.9154,
+          "personal": 5.875,
+          "confidence": 0.3
+        },
+        {
+          "id": 25,
+          "nome": "Taberna Afonso",
+          "score": 0.9154,
+          "personal": 5.875,
+          "confidence": 0.3
+        },
+        {
+          "id": 388,
+          "nome": "O Poleiro",
+          "score": 0.9083,
+          "personal": 4.406,
+          "confidence": 0.3
+        },
+        {
+          "id": 339,
+          "nome": "Adega da Tia Matilde",
+          "score": 0.8954,
+          "personal": 5.875,
+          "confidence": 0.3
+        },
+        {
+          "id": 437,
+          "nome": "Al.fama (ex-Ideal)",
+          "score": 0.8954,
+          "personal": 5.875,
+          "confidence": 0.3
+        },
+        {
+          "id": 429,
+          "nome": "Astrolabio",
+          "score": 0.8954,
+          "personal": 5.875,
+          "confidence": 0.3
+        },
+        {
+          "id": 165,
+          "nome": "Batista do Bacalhau",
+          "score": 0.8954,
+          "personal": 5.875,
+          "confidence": 0.3
+        },
+        {
+          "id": 468,
+          "nome": "Casa dos Passarinhos",
+          "score": 0.8954,
+          "personal": 5.287,
+          "confidence": 0.3
+        },
+        {
+          "id": 476,
+          "nome": "O Fuso",
+          "score": 0.8954,
+          "personal": 5.287,
+          "confidence": 0.3
+        }
+      ],
+      "romantico-contemporaneo": [
+        {
+          "id": 429,
+          "nome": "Astrolabio",
+          "score": 0.8954,
+          "personal": 6,
+          "confidence": 0.3
+        },
+        {
+          "id": 434,
+          "nome": "Noélia e Jerónimo",
+          "score": 0.8754,
+          "personal": 6,
+          "confidence": 0.3
+        },
+        {
+          "id": 315,
+          "nome": "Ó Balcão",
+          "score": 0.8754,
+          "personal": 6,
+          "confidence": 0.3
+        },
+        {
+          "id": 342,
+          "nome": "Adega Já Fumega",
+          "score": 0.8554,
+          "personal": 0,
+          "confidence": 0.3
+        },
+        {
+          "id": 1,
+          "nome": "O Manel",
+          "score": 0.8554,
+          "personal": 0,
+          "confidence": 0.3
+        },
+        {
+          "id": 388,
+          "nome": "O Poleiro",
+          "score": 0.8554,
+          "personal": 0,
+          "confidence": 0.3
+        },
+        {
+          "id": 25,
+          "nome": "Taberna Afonso",
+          "score": 0.8554,
+          "personal": 0,
+          "confidence": 0.3
+        },
+        {
+          "id": 32,
+          "nome": "A Mariana",
+          "score": 0.8354,
+          "personal": 0,
+          "confidence": 0.3
+        },
+        {
+          "id": 339,
+          "nome": "Adega da Tia Matilde",
+          "score": 0.8354,
+          "personal": 0,
+          "confidence": 0.3
+        },
+        {
+          "id": 437,
+          "nome": "Al.fama (ex-Ideal)",
+          "score": 0.8354,
+          "personal": 0,
+          "confidence": 0.3
+        }
+      ]
+    },
+    "petiscos": {
+      "explorador": [
+        {
+          "id": 342,
+          "nome": "Adega Já Fumega",
+          "score": 0.91,
+          "personal": 0,
+          "confidence": 0
+        },
+        {
+          "id": 420,
+          "nome": "Izakaya",
+          "score": 0.91,
+          "personal": 0,
+          "confidence": 0
+        },
+        {
+          "id": 25,
+          "nome": "Taberna Afonso",
+          "score": 0.91,
+          "personal": 0,
+          "confidence": 0
+        },
+        {
+          "id": 5,
+          "nome": "Taberna Belga 1",
+          "score": 0.91,
+          "personal": 0,
+          "confidence": 0
+        },
+        {
+          "id": 6,
+          "nome": "Taberna Belga 2",
+          "score": 0.91,
+          "personal": 0,
+          "confidence": 0
+        },
+        {
+          "id": 407,
+          "nome": "Trindade",
+          "score": 0.91,
+          "personal": 0,
+          "confidence": 0
+        },
+        {
+          "id": 340,
+          "nome": "Adega das Gravatas",
+          "score": 0.8888,
+          "personal": 0,
+          "confidence": 0
+        },
+        {
+          "id": 2,
+          "nome": "Idealysta",
+          "score": 0.8888,
+          "personal": 0,
+          "confidence": 0
+        },
+        {
+          "id": 391,
+          "nome": "Pão Pão Queijo Queijo",
+          "score": 0.8888,
+          "personal": 0,
+          "confidence": 0
+        },
+        {
+          "id": 312,
+          "nome": "Taberna do Quinzena",
+          "score": 0.8888,
+          "personal": 0,
+          "confidence": 0
+        }
+      ],
+      "tradicional": [
+        {
+          "id": 340,
+          "nome": "Adega das Gravatas",
+          "score": 0.9021,
+          "personal": 6,
+          "confidence": 0.6
+        },
+        {
+          "id": 2,
+          "nome": "Idealysta",
+          "score": 0.9021,
+          "personal": 5,
+          "confidence": 0.6
+        },
+        {
+          "id": 25,
+          "nome": "Taberna Afonso",
+          "score": 0.8968,
+          "personal": 4,
+          "confidence": 0.6
+        },
+        {
+          "id": 328,
+          "nome": "Adega do Isaías",
+          "score": 0.8834,
+          "personal": 6,
+          "confidence": 0.6
+        },
+        {
+          "id": 321,
+          "nome": "Botequim da Mouraria",
+          "score": 0.8834,
+          "personal": 6,
+          "confidence": 0.6
+        },
+        {
+          "id": 18,
+          "nome": "Buxa",
+          "score": 0.8834,
+          "personal": 6,
+          "confidence": 0.6
+        },
+        {
+          "id": 319,
+          "nome": "Fialho",
+          "score": 0.8834,
+          "personal": 5.25,
+          "confidence": 0.6
+        },
+        {
+          "id": 57,
+          "nome": "Filha da Mãe Preta",
+          "score": 0.8834,
+          "personal": 6,
+          "confidence": 0.6
+        },
+        {
+          "id": 12,
+          "nome": "Sol da Barra",
+          "score": 0.8834,
+          "personal": 6,
+          "confidence": 0.6
+        },
+        {
+          "id": 202,
+          "nome": "Taberna Burguesa",
+          "score": 0.8834,
+          "personal": 6,
+          "confidence": 0.6
+        }
+      ],
+      "peixe-casual": [
+        {
+          "id": 25,
+          "nome": "Taberna Afonso",
+          "score": 0.9154,
+          "personal": 5,
+          "confidence": 0.3
+        },
+        {
+          "id": 342,
+          "nome": "Adega Já Fumega",
+          "score": 0.9094,
+          "personal": 4.5,
+          "confidence": 0.3
+        },
+        {
+          "id": 420,
+          "nome": "Izakaya",
+          "score": 0.8914,
+          "personal": 3,
+          "confidence": 0.3
+        },
+        {
+          "id": 64,
+          "nome": "Adega São Nicolau",
+          "score": 0.8754,
+          "personal": 5,
+          "confidence": 0.3
+        },
+        {
+          "id": 91,
+          "nome": "Taberna do Porfírio",
+          "score": 0.8754,
+          "personal": 5,
+          "confidence": 0.3
+        },
+        {
+          "id": 5,
+          "nome": "Taberna Belga 1",
+          "score": 0.8734,
+          "personal": 1.5,
+          "confidence": 0.3
+        },
+        {
+          "id": 6,
+          "nome": "Taberna Belga 2",
+          "score": 0.8734,
+          "personal": 1.5,
+          "confidence": 0.3
+        },
+        {
+          "id": 340,
+          "nome": "Adega das Gravatas",
+          "score": 0.8714,
+          "personal": 3,
+          "confidence": 0.3
+        },
+        {
+          "id": 438,
+          "nome": "Taberna Modesto",
+          "score": 0.8694,
+          "personal": 4.5,
+          "confidence": 0.3
+        },
+        {
+          "id": 407,
+          "nome": "Trindade",
+          "score": 0.8644,
+          "personal": 0.75,
+          "confidence": 0.3
+        }
+      ],
+      "romantico-contemporaneo": [
+        {
+          "id": 420,
+          "nome": "Izakaya",
+          "score": 0.9154,
+          "personal": 6,
+          "confidence": 0.3
+        },
+        {
+          "id": 342,
+          "nome": "Adega Já Fumega",
+          "score": 0.8554,
+          "personal": 0,
+          "confidence": 0.3
+        },
+        {
+          "id": 25,
+          "nome": "Taberna Afonso",
+          "score": 0.8554,
+          "personal": 0,
+          "confidence": 0.3
+        },
+        {
+          "id": 5,
+          "nome": "Taberna Belga 1",
+          "score": 0.8554,
+          "personal": 0,
+          "confidence": 0.3
+        },
+        {
+          "id": 6,
+          "nome": "Taberna Belga 2",
+          "score": 0.8554,
+          "personal": 0,
+          "confidence": 0.3
+        },
+        {
+          "id": 407,
+          "nome": "Trindade",
+          "score": 0.8554,
+          "personal": 0,
+          "confidence": 0.3
+        },
+        {
+          "id": 340,
+          "nome": "Adega das Gravatas",
+          "score": 0.8354,
+          "personal": 0,
+          "confidence": 0.3
+        },
+        {
+          "id": 2,
+          "nome": "Idealysta",
+          "score": 0.8354,
+          "personal": 0,
+          "confidence": 0.3
+        },
+        {
+          "id": 391,
+          "nome": "Pão Pão Queijo Queijo",
+          "score": 0.8354,
+          "personal": 0,
+          "confidence": 0.3
+        },
+        {
+          "id": 312,
+          "nome": "Taberna do Quinzena",
+          "score": 0.8354,
+          "personal": 0,
+          "confidence": 0.3
+        }
+      ]
+    },
+    "contemporaneo": {
+      "explorador": [
+        {
+          "id": 335,
+          "nome": "100 Maneiras",
+          "score": 0.91,
+          "personal": 0,
+          "confidence": 0
+        },
+        {
+          "id": 366,
+          "nome": "Eleven",
+          "score": 0.91,
+          "personal": 0,
+          "confidence": 0
+        },
+        {
+          "id": 420,
+          "nome": "Izakaya",
+          "score": 0.91,
+          "personal": 0,
+          "confidence": 0
+        },
+        {
+          "id": 421,
+          "nome": "Kappo",
+          "score": 0.91,
+          "personal": 0,
+          "confidence": 0
+        },
+        {
+          "id": 380,
+          "nome": "Natraj",
+          "score": 0.91,
+          "personal": 0,
+          "confidence": 0
+        },
+        {
+          "id": 399,
+          "nome": "Sakura",
+          "score": 0.91,
+          "personal": 0,
+          "confidence": 0
+        },
+        {
+          "id": 163,
+          "nome": "Salpoente",
+          "score": 0.91,
+          "personal": 0,
+          "confidence": 0
+        },
+        {
+          "id": 405,
+          "nome": "Tibetanos",
+          "score": 0.91,
+          "personal": 0,
+          "confidence": 0
+        },
+        {
+          "id": 15,
+          "nome": "34",
+          "score": 0.8888,
+          "personal": 0,
+          "confidence": 0
+        },
+        {
+          "id": 429,
+          "nome": "Astrolabio",
+          "score": 0.8888,
+          "personal": 0,
+          "confidence": 0
+        }
+      ],
+      "tradicional": [
+        {
+          "id": 420,
+          "nome": "Izakaya",
+          "score": 0.7048,
+          "personal": -4,
+          "confidence": 0.6
+        },
+        {
+          "id": 335,
+          "nome": "100 Maneiras",
+          "score": 0.6928,
+          "personal": -4.5,
+          "confidence": 0.6
+        },
+        {
+          "id": 366,
+          "nome": "Eleven",
+          "score": 0.6928,
+          "personal": -4.5,
+          "confidence": 0.6
+        },
+        {
+          "id": 421,
+          "nome": "Kappo",
+          "score": 0.6928,
+          "personal": -4.5,
+          "confidence": 0.6
+        },
+        {
+          "id": 380,
+          "nome": "Natraj",
+          "score": 0.6808,
+          "personal": -9,
+          "confidence": 0.6
+        },
+        {
+          "id": 399,
+          "nome": "Sakura",
+          "score": 0.6808,
+          "personal": -9,
+          "confidence": 0.6
+        },
+        {
+          "id": 163,
+          "nome": "Salpoente",
+          "score": 0.6808,
+          "personal": -9,
+          "confidence": 0.6
+        },
+        {
+          "id": 405,
+          "nome": "Tibetanos",
+          "score": 0.6808,
+          "personal": -9,
+          "confidence": 0.6
+        },
+        {
+          "id": 7,
+          "nome": "Palatial",
+          "score": 0.6741,
+          "personal": -4.5,
+          "confidence": 0.6
+        },
+        {
+          "id": 15,
+          "nome": "34",
+          "score": 0.6621,
+          "personal": -9,
+          "confidence": 0.6
+        }
+      ],
+      "peixe-casual": [
+        {
+          "id": 429,
+          "nome": "Astrolabio",
+          "score": 0.8954,
+          "personal": 5,
+          "confidence": 0.3
+        },
+        {
+          "id": 420,
+          "nome": "Izakaya",
+          "score": 0.8914,
+          "personal": 3,
+          "confidence": 0.3
+        },
+        {
+          "id": 380,
+          "nome": "Natraj",
+          "score": 0.8914,
+          "personal": 3,
+          "confidence": 0.3
+        },
+        {
+          "id": 399,
+          "nome": "Sakura",
+          "score": 0.8914,
+          "personal": 3,
+          "confidence": 0.3
+        },
+        {
+          "id": 163,
+          "nome": "Salpoente",
+          "score": 0.8914,
+          "personal": 3,
+          "confidence": 0.3
+        },
+        {
+          "id": 405,
+          "nome": "Tibetanos",
+          "score": 0.8914,
+          "personal": 3,
+          "confidence": 0.3
+        },
+        {
+          "id": 434,
+          "nome": "Noélia e Jerónimo",
+          "score": 0.8754,
+          "personal": 5,
+          "confidence": 0.3
+        },
+        {
+          "id": 315,
+          "nome": "Ó Balcão",
+          "score": 0.8754,
+          "personal": 5,
+          "confidence": 0.3
+        },
+        {
+          "id": 335,
+          "nome": "100 Maneiras",
+          "score": 0.8734,
+          "personal": 1.5,
+          "confidence": 0.3
+        },
+        {
+          "id": 366,
+          "nome": "Eleven",
+          "score": 0.8734,
+          "personal": 1.5,
+          "confidence": 0.3
+        }
+      ],
+      "romantico-contemporaneo": [
+        {
+          "id": 335,
+          "nome": "100 Maneiras",
+          "score": 0.9154,
+          "personal": 5.287,
+          "confidence": 0.3
+        },
+        {
+          "id": 366,
+          "nome": "Eleven",
+          "score": 0.9154,
+          "personal": 5.287,
+          "confidence": 0.3
+        },
+        {
+          "id": 420,
+          "nome": "Izakaya",
+          "score": 0.9154,
+          "personal": 7.05,
+          "confidence": 0.3
+        },
+        {
+          "id": 421,
+          "nome": "Kappo",
+          "score": 0.9154,
+          "personal": 5.287,
+          "confidence": 0.3
+        },
+        {
+          "id": 380,
+          "nome": "Natraj",
+          "score": 0.9154,
+          "personal": 10.575,
+          "confidence": 0.3
+        },
+        {
+          "id": 399,
+          "nome": "Sakura",
+          "score": 0.9154,
+          "personal": 10.575,
+          "confidence": 0.3
+        },
+        {
+          "id": 163,
+          "nome": "Salpoente",
+          "score": 0.9154,
+          "personal": 10.575,
+          "confidence": 0.3
+        },
+        {
+          "id": 405,
+          "nome": "Tibetanos",
+          "score": 0.9154,
+          "personal": 10.575,
+          "confidence": 0.3
+        },
+        {
+          "id": 15,
+          "nome": "34",
+          "score": 0.8954,
+          "personal": 10.575,
+          "confidence": 0.3
+        },
+        {
+          "id": 429,
+          "nome": "Astrolabio",
+          "score": 0.8954,
+          "personal": 7.05,
+          "confidence": 0.3
+        }
+      ]
+    },
+    "classico": {
+      "explorador": [
+        {
+          "id": 41,
+          "nome": "Abocanhado",
+          "score": 0.91,
+          "personal": 0,
+          "confidence": 0
+        },
+        {
+          "id": 469,
+          "nome": "Café de São Bento",
+          "score": 0.91,
+          "personal": 0,
+          "confidence": 0
+        },
+        {
+          "id": 466,
+          "nome": "Casa do Alentejo",
+          "score": 0.91,
+          "personal": 0,
+          "confidence": 0
+        },
+        {
+          "id": 1,
+          "nome": "O Manel",
+          "score": 0.91,
+          "personal": 0,
+          "confidence": 0
+        },
+        {
+          "id": 388,
+          "nome": "O Poleiro",
+          "score": 0.91,
+          "personal": 0,
+          "confidence": 0
+        },
+        {
+          "id": 401,
+          "nome": "Solar dos Nunes",
+          "score": 0.91,
+          "personal": 0,
+          "confidence": 0
+        },
+        {
+          "id": 5,
+          "nome": "Taberna Belga 1",
+          "score": 0.91,
+          "personal": 0,
+          "confidence": 0
+        },
+        {
+          "id": 6,
+          "nome": "Taberna Belga 2",
+          "score": 0.91,
+          "personal": 0,
+          "confidence": 0
+        },
+        {
+          "id": 428,
+          "nome": "Zé Varunca",
+          "score": 0.91,
+          "personal": 0,
+          "confidence": 0
+        },
+        {
+          "id": 336,
+          "nome": "A Isaura",
+          "score": 0.8888,
+          "personal": 0,
+          "confidence": 0
+        }
+      ],
+      "tradicional": [
+        {
+          "id": 41,
+          "nome": "Abocanhado",
+          "score": 0.9208,
+          "personal": 6,
+          "confidence": 0.6
+        },
+        {
+          "id": 469,
+          "nome": "Café de São Bento",
+          "score": 0.9208,
+          "personal": 5,
+          "confidence": 0.6
+        },
+        {
+          "id": 466,
+          "nome": "Casa do Alentejo",
+          "score": 0.9208,
+          "personal": 5,
+          "confidence": 0.6
+        },
+        {
+          "id": 401,
+          "nome": "Solar dos Nunes",
+          "score": 0.9208,
+          "personal": 5,
+          "confidence": 0.6
+        },
+        {
+          "id": 428,
+          "nome": "Zé Varunca",
+          "score": 0.9088,
+          "personal": 4.5,
+          "confidence": 0.6
+        },
+        {
+          "id": 198,
+          "nome": "Burgo",
+          "score": 0.9021,
+          "personal": 6,
+          "confidence": 0.6
+        },
+        {
+          "id": 467,
+          "nome": "Café Império",
+          "score": 0.9021,
+          "personal": 6,
+          "confidence": 0.6
+        },
+        {
+          "id": 37,
+          "nome": "Cantinho do Abade",
+          "score": 0.9021,
+          "personal": 6,
+          "confidence": 0.6
+        },
+        {
+          "id": 142,
+          "nome": "Castiço",
+          "score": 0.9021,
+          "personal": 6,
+          "confidence": 0.6
+        },
+        {
+          "id": 363,
+          "nome": "Duas Amazonas",
+          "score": 0.9021,
+          "personal": 6,
+          "confidence": 0.6
+        }
+      ],
+      "peixe-casual": [
+        {
+          "id": 1,
+          "nome": "O Manel",
+          "score": 0.9154,
+          "personal": 5,
+          "confidence": 0.3
+        },
+        {
+          "id": 388,
+          "nome": "O Poleiro",
+          "score": 0.9004,
+          "personal": 3.75,
+          "confidence": 0.3
+        },
+        {
+          "id": 339,
+          "nome": "Adega da Tia Matilde",
+          "score": 0.8954,
+          "personal": 5,
+          "confidence": 0.3
+        },
+        {
+          "id": 437,
+          "nome": "Al.fama (ex-Ideal)",
+          "score": 0.8954,
+          "personal": 5,
+          "confidence": 0.3
+        },
+        {
+          "id": 165,
+          "nome": "Batista do Bacalhau",
+          "score": 0.8954,
+          "personal": 5,
+          "confidence": 0.3
+        },
+        {
+          "id": 38,
+          "nome": "O Jardim",
+          "score": 0.8954,
+          "personal": 5,
+          "confidence": 0.3
+        },
+        {
+          "id": 318,
+          "nome": "Pinheiro (Almeirim)",
+          "score": 0.8954,
+          "personal": 5,
+          "confidence": 0.3
+        },
+        {
+          "id": 152,
+          "nome": "Solar do Bacalhau",
+          "score": 0.8954,
+          "personal": 5,
+          "confidence": 0.3
+        },
+        {
+          "id": 402,
+          "nome": "Solar dos Presuntos",
+          "score": 0.8954,
+          "personal": 5,
+          "confidence": 0.3
+        },
+        {
+          "id": 41,
+          "nome": "Abocanhado",
+          "score": 0.8914,
+          "personal": 3,
+          "confidence": 0.3
+        }
+      ],
+      "romantico-contemporaneo": [
+        {
+          "id": 41,
+          "nome": "Abocanhado",
+          "score": 0.8554,
+          "personal": 0,
+          "confidence": 0.3
+        },
+        {
+          "id": 469,
+          "nome": "Café de São Bento",
+          "score": 0.8554,
+          "personal": 0,
+          "confidence": 0.3
+        },
+        {
+          "id": 466,
+          "nome": "Casa do Alentejo",
+          "score": 0.8554,
+          "personal": 0,
+          "confidence": 0.3
+        },
+        {
+          "id": 1,
+          "nome": "O Manel",
+          "score": 0.8554,
+          "personal": 0,
+          "confidence": 0.3
+        },
+        {
+          "id": 388,
+          "nome": "O Poleiro",
+          "score": 0.8554,
+          "personal": 0,
+          "confidence": 0.3
+        },
+        {
+          "id": 401,
+          "nome": "Solar dos Nunes",
+          "score": 0.8554,
+          "personal": 0,
+          "confidence": 0.3
+        },
+        {
+          "id": 5,
+          "nome": "Taberna Belga 1",
+          "score": 0.8554,
+          "personal": 0,
+          "confidence": 0.3
+        },
+        {
+          "id": 6,
+          "nome": "Taberna Belga 2",
+          "score": 0.8554,
+          "personal": 0,
+          "confidence": 0.3
+        },
+        {
+          "id": 428,
+          "nome": "Zé Varunca",
+          "score": 0.8554,
+          "personal": 0,
+          "confidence": 0.3
+        },
+        {
+          "id": 336,
+          "nome": "A Isaura",
+          "score": 0.8354,
+          "personal": 0,
+          "confidence": 0.3
+        }
+      ]
+    }
+  }
+}

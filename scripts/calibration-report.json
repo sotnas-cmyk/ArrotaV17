@@ -1,0 +1,45 @@
+{
+  "principle": "confidence cresce por restaurantes distintos, não por número de atributos ou repetições",
+  "rows": [
+    {
+      "evidencia": 0,
+      "confidence": 0,
+      "personalWeight": 0,
+      "score": 0
+    },
+    {
+      "evidencia": 1,
+      "confidence": 0.1,
+      "personalWeight": 0.02,
+      "score": 3.525
+    },
+    {
+      "evidencia": 2,
+      "confidence": 0.2,
+      "personalWeight": 0.04,
+      "score": 4.406
+    },
+    {
+      "evidencia": 3,
+      "confidence": 0.3,
+      "personalWeight": 0.06,
+      "score": 7.05
+    },
+    {
+      "evidencia": 5,
+      "confidence": 0.5,
+      "personalWeight": 0.1,
+      "score": 14.1
+    },
+    {
+      "evidencia": 10,
+      "confidence": 1,
+      "personalWeight": 0.2,
+      "score": 21.15
+    }
+  ],
+  "repeatedSameRestaurant": {
+    "confidence": 0.1,
+    "score": 7.2
+  }
+}
